@@ -2,7 +2,7 @@
 
 ![Badge em Desenvolvimento](https://img.shields.io/badge/status-em%20constru%C3%A7%C3%A3o-yellow?style=for-the-badge)
 
-Acesse o site <a href="https://carolina-jung.github.io/">aqui</a>.
+Acesse o site <a href="https://carolina-jung.github.io/" target="_blank">aqui</a>.
 
 <h2> Descrição</h2>
 Esse site foi desenvolvido ao longo de três cursos de HTML e CSS da [Alura Cursos Online](https://www.alura.com.br/):
