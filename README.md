@@ -11,10 +11,3 @@ Esse site foi desenvolvido ao longo de três cursos de HTML e CSS da [Alura Curs
 3. HTML e CSS: Cabeçalho, footer e variáveis CSS
 
 O site é considerado em construção pois será continuamente atualizado conforme o avanço nos estudos de Front End.
-
-<h2>Técnicas e tecnologias utilizadas</h2>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Flexbox</li>
-</ul>
