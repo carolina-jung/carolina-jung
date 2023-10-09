@@ -140,6 +140,8 @@ body {
     }
 }
 
-@media (max-width:400px { /*celular*/
-
-})
+@media (max-width:400px) { /*celular*/
+    .header {
+        padding: 10%;
+    }
+}
